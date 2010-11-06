@@ -4,3 +4,15 @@
 [submodule "vim-ref"]
 	path = vim-ref
 	url = https://github.com/thinca/vim-ref.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "vim-symfony"]
+	path = vim-symfony
+	url = https://github.com/soh335/vim-symfony.git
+[submodule "vimproc"]
+	path = vimproc
+	url = https://github.com/Shougo/vimproc.git
+[submodule "vimshell"]
+	path = vimshell
+	url = https://github.com/Shougo/vimshell.git
