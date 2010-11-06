@@ -1,0 +1,6 @@
+[submodule "neocomplcache"]
+	path = neocomplcache
+	url = git://github.com/Shougo/neocomplcache.git
+[submodule "vim-ref"]
+	path = vim-ref
+	url = https://github.com/thinca/vim-ref.git
