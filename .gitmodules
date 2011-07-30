@@ -22,3 +22,6 @@
 [submodule "YankRingSync"]
 	path = YankRingSync
 	url = https://github.com/m4i/YankRingSync.git
+[submodule "YankRing"]
+	path = YankRing
+	url = https://github.com/vim-scripts/YankRing.vim.git
