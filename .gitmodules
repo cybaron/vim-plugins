@@ -37,3 +37,6 @@
 [submodule "cake.vim"]
 	path = cake.vim
 	url = https://github.com/violetyk/cake.vim.git
+[submodule "sudo.vim"]
+	path = sudo.vim
+	url = https://github.com/vim-scripts/sudo.vim.git
