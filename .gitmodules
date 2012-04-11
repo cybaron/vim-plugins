@@ -40,3 +40,6 @@
 [submodule "sudo.vim"]
 	path = sudo.vim
 	url = https://github.com/vim-scripts/sudo.vim.git
+[submodule "refe2-vim"]
+	path = refe2-vim
+	url = https://github.com/mootoh/refe2-vim.git
