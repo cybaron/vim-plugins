@@ -40,3 +40,6 @@
 [submodule "sudo.vim"]
 	path = sudo.vim
 	url = https://github.com/vim-scripts/sudo.vim.git
+[submodule "vim-cakehtml"]
+	path = vim-cakehtml
+	url = https://github.com/naberon/vim-cakehtml.git
