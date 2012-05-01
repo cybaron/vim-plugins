@@ -43,3 +43,6 @@
 [submodule "vim-cakehtml"]
 	path = vim-cakehtml
 	url = https://github.com/naberon/vim-cakehtml.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = https://github.com/mileszs/ack.vim.git
