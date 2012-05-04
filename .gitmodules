@@ -46,3 +46,9 @@
 [submodule "ack.vim"]
 	path = ack.vim
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "vimfiler"]
+	path = vimfiler
+	url = https://github.com/Shougo/vimfiler.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = https://github.com/Shougo/unite.vim.git
