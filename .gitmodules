@@ -55,3 +55,6 @@
 [submodule "neocomplcache-snippets-complete"]
 	path = neocomplcache-snippets-complete
 	url = git://github.com/Shougo/neocomplcache-snippets-complete.git
+[submodule "vim-smartchr"]
+	path = vim-smartchr
+	url = git://github.com/kana/vim-smartchr.git
