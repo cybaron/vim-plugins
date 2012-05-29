@@ -58,3 +58,6 @@
 [submodule "vim-smartchr"]
 	path = vim-smartchr
 	url = git://github.com/kana/vim-smartchr.git
+[submodule "bclose.vim"]
+	path = bclose.vim
+	url = git://github.com/rbgrouleff/bclose.vim.git
