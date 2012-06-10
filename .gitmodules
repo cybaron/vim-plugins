@@ -1,9 +1,6 @@
 [submodule "neocomplcache"]
 	path = neocomplcache
 	url = git://github.com/Shougo/neocomplcache.git
-[submodule "vim-symfony"]
-	path = vim-symfony
-	url = https://github.com/soh335/vim-symfony.git
 [submodule "vimproc"]
 	path = vimproc
 	url = https://github.com/Shougo/vimproc.git
@@ -61,3 +58,6 @@
 [submodule "vim-surround"]
 	path = vim-surround
 	url = git://github.com/tpope/vim-surround.git
+[submodule "vim-symfony"]
+	path = vim-symfony
+	url = git://github.com/soh335/vim-symfony.git
