@@ -19,9 +19,6 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = https://github.com/mattn/zencoding-vim.git
-[submodule "YankRingSync"]
-	path = YankRingSync
-	url = https://github.com/m4i/YankRingSync.git
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
@@ -61,3 +58,6 @@
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = git://github.com/vim-scripts/YankRing.vim.git
+[submodule "YankRingSync"]
+	path = YankRingSync
+	url = git://github.com/m4i/YankRingSync.git
