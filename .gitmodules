@@ -28,9 +28,6 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
-[submodule "sudo.vim"]
-	path = sudo.vim
-	url = https://github.com/vim-scripts/sudo.vim.git
 [submodule "vim-cakehtml"]
 	path = vim-cakehtml
 	url = https://github.com/naberon/vim-cakehtml.git
@@ -61,3 +58,6 @@
 [submodule "cake.vim"]
 	path = cake.vim
 	url = git://github.com/violetyk/cake.vim.git
+[submodule "sudo.vim"]
+	path = sudo.vim
+	url = git://github.com/vim-scripts/sudo.vim.git
