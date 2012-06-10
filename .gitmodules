@@ -37,9 +37,6 @@
 [submodule "vim-cakehtml"]
 	path = vim-cakehtml
 	url = https://github.com/naberon/vim-cakehtml.git
-[submodule "ack.vim"]
-	path = ack.vim
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "vimfiler"]
 	path = vimfiler
 	url = https://github.com/Shougo/vimfiler.git
@@ -61,3 +58,6 @@
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = git://github.com/vim-scripts/YankRing.vim.git
+[submodule "ack.vim"]
+	path = ack.vim
+	url = git://github.com/mileszs/ack.vim.git
