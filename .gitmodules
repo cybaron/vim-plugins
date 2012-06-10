@@ -1,9 +1,6 @@
 [submodule "neocomplcache"]
 	path = neocomplcache
 	url = git://github.com/Shougo/neocomplcache.git
-[submodule "zencoding-vim"]
-	path = zencoding-vim
-	url = https://github.com/mattn/zencoding-vim.git
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
@@ -61,3 +58,6 @@
 [submodule "vimshell"]
 	path = vimshell
 	url = git://github.com/Shougo/vimshell.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = git://github.com/mattn/zencoding-vim.git
