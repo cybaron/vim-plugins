@@ -55,9 +55,9 @@
 [submodule "bclose.vim"]
 	path = bclose.vim
 	url = git://github.com/rbgrouleff/bclose.vim.git
-[submodule "YankRing.vim"]
-	path = YankRing.vim
-	url = git://github.com/vim-scripts/YankRing.vim.git
 [submodule "YankRingSync"]
 	path = YankRingSync
 	url = git://github.com/m4i/YankRingSync.git
+[submodule "YankRing.vim"]
+	path = YankRing.vim
+	url = git://github.com/vim-scripts/YankRing.vim.git
