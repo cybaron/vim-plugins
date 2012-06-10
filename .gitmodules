@@ -43,9 +43,6 @@
 [submodule "YankRingSync"]
 	path = YankRingSync
 	url = git://github.com/m4i/YankRingSync.git
-[submodule "YankRing.vim"]
-	path = YankRing.vim
-	url = git://github.com/vim-scripts/YankRing.vim.git
 [submodule "ack.vim"]
 	path = ack.vim
 	url = git://github.com/mileszs/ack.vim.git
@@ -58,3 +55,6 @@
 [submodule "unite.vim"]
 	path = unite.vim
 	url = git://github.com/Shougo/unite.vim.git
+[submodule "YankRing.vim"]
+	path = YankRing.vim
+	url = git://github.com/vim-scripts/YankRing.vim.git
