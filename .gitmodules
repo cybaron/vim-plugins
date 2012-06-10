@@ -58,3 +58,6 @@
 [submodule "YankRing.vim"]
 	path = YankRing.vim
 	url = git://github.com/vim-scripts/YankRing.vim.git
+[submodule "vim-cakehtml"]
+	path = vim-cakehtml
+	url = git://github.com/naberon/vim-cakehtml.git
