@@ -34,9 +34,6 @@
 [submodule "vimfiler"]
 	path = vimfiler
 	url = https://github.com/Shougo/vimfiler.git
-[submodule "unite.vim"]
-	path = unite.vim
-	url = https://github.com/Shougo/unite.vim.git
 [submodule "neocomplcache-snippets-complete"]
 	path = neocomplcache-snippets-complete
 	url = git://github.com/Shougo/neocomplcache-snippets-complete.git
@@ -61,3 +58,6 @@
 [submodule "sudo.vim"]
 	path = sudo.vim
 	url = git://github.com/vim-scripts/sudo.vim.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = git://github.com/Shougo/unite.vim.git
