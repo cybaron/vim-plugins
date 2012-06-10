@@ -28,9 +28,6 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
-[submodule "vim-cakehtml"]
-	path = vim-cakehtml
-	url = https://github.com/naberon/vim-cakehtml.git
 [submodule "vimfiler"]
 	path = vimfiler
 	url = https://github.com/Shougo/vimfiler.git
