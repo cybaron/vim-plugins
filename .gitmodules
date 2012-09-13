@@ -61,3 +61,9 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "vim-textobj-user"]
+	path = vim-textobj-user
+	url = git://github.com/kana/vim-textobj-user.git
+[submodule "vim-textobj-php"]
+	path = vim-textobj-php
+	url = git://github.com/akiyan/vim-textobj-php.git
