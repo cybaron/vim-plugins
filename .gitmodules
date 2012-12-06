@@ -67,3 +67,6 @@
 [submodule "vim-textobj-php"]
 	path = vim-textobj-php
 	url = git://github.com/akiyan/vim-textobj-php.git
+[submodule "neosnippet"]
+	path = neosnippet
+	url = https://github.com/Shougo/neosnippet
