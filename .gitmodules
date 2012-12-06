@@ -4,9 +4,6 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = git://github.com/tpope/vim-pathogen.git
-[submodule "neocomplcache-snippets-complete"]
-	path = neocomplcache-snippets-complete
-	url = git://github.com/Shougo/neocomplcache-snippets-complete.git
 [submodule "vim-smartchr"]
 	path = vim-smartchr
 	url = git://github.com/kana/vim-smartchr.git
