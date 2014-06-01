@@ -55,9 +55,6 @@
 [submodule "vimshell"]
 	path = vimshell
 	url = git://github.com/Shougo/vimshell.git
-[submodule "zencoding-vim"]
-	path = zencoding-vim
-	url = git://github.com/mattn/zencoding-vim.git
 [submodule "vim-textobj-user"]
 	path = vim-textobj-user
 	url = git://github.com/kana/vim-textobj-user.git
